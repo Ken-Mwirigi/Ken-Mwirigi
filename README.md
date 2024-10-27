@@ -2,6 +2,8 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ken-Mwirigi)](https://github.com/Ken-Mwirigi/github-readme-stats) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Mwirigi_count=8)
+
 <!--
 **Ken-Mwirigi/Ken-Mwirigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
