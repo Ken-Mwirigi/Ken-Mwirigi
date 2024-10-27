@@ -1,4 +1,4 @@
-## Hi there 👋
+## I'm Ken👋
 
 <!--
 **Ken-Mwirigi/Ken-Mwirigi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
