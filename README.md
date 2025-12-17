@@ -24,7 +24,7 @@ System optimization, automation, problem-solving, building reliable systems and 
 Cloud computing, networking engineering (CCNA), cybersecurity fundamentals and modern IT infrastructure  
 
 📫 **Get In Touch:**  
-📩 kennedy.k.mwirigi@gmail.com  🔗 [LinkedIn](#) | 🌐 [Portfolio](#)  
+📩 kennedy.k.mwirigi@gmail.com  🔗 [LinkedIn](https://www.linkedin.com/in/k-kamau) | 🌐 [Portfolio](#)  
 
 🎥 **Fun Fact:**  
 Beyond tech, I have a strong passion for photography and videography — I love telling stories visually as much as I enjoy building systems behind the scenes.
